@@ -1,0 +1,8 @@
+ID,Identified Gap,ISO 27001 Reference,Annex A Category,Recommended Control,Priority
+G1,"No formally defined ISMS scope; boundaries of protected systems, clinics and data are undocumented",Clause 4.3,Organisational,"A.5.1 Policies for Information Security (supported by a documented ISMS Scope Statement)",High
+G2,"Information security policies are incomplete, outdated or not formally approved by management",Clause 5.2 / A.5.1,Organisational,A.5.1 Policies for Information Security,High
+G3,"No formal information asset inventory; patient records, payroll and supplier data are not classified or tracked",A.5.9,Organisational,"A.5.9 Inventory of Information Assets; A.5.12 Classification of Information",High
+G4,"Risk assessments are performed inconsistently and there is no formal risk register (decisions made case by case)",Clause 6.1.2,Organisational,"A.5.9 (asset basis for risk) supported by a formal risk assessment methodology and risk register",High
+G5,"Security controls have not been formally selected or documented; no Statement of Applicability (SoA) exists",Clause 6.1.3,Organisational,"Formal SoA referencing all 93 Annex A controls with inclusion/exclusion justification",Medium
+G6,"Security awareness training is not conducted regularly for clinical, IT and admin staff",A.6.3,People,"A.6.3 Information Security Awareness, Education and Training",Medium
+G7,"Supplier security requirements are not consistently evaluated before onboarding third parties",A.5.19 / A.5.20,Organisational,"A.5.19 Information Security in Supplier Relationships; A.5.20 Addressing Security Within Supplier Agreements",Medium

@@ -1,0 +1,11 @@
+PCI DSS v4.0.1 Requirement,Objective,Application to MediCare Plus
+Requirement 1,Install and maintain network security controls,"Segment the payment environment from clinical and IT networks and from public Wi-Fi, since reception and the portal both touch cardholder data"
+Requirement 2,Apply secure configurations,Change default vendor passwords on POS terminals and harden terminals before use
+Requirement 3,Protect stored account data,"Avoid retaining cardholder data (a third party processes payments); where any is stored, render the PAN unreadable (encrypted, truncated, masked or hashed); never store the CVV after authorisation"
+Requirement 4,Protect cardholder data in transit,Use strong cryptography whenever cardholder data crosses an open network
+Requirement 5,Protect against malicious software,Protect reception systems and the online payment channel from malware
+Requirement 6,Develop and maintain secure systems and software,"Defend the live patient portal against SQL injection, XSS and similar vulnerabilities; patch promptly"
+Requirement 7,Restrict access by business need to know,"Only staff with a documented need (billing, reception) can reach cardholder data or payment systems"
+Requirement 8,Identify users and authenticate access,Unique logins and MFA for anyone using payment terminals or the portal admin panel
+Requirement 9,Restrict physical access,"Secure POS terminals, receipts showing PANs and any physical media at reception"
+Requirement 12,Support information security with policies and programmes,"Information security policy, third-party assessments, incident response plan and ongoing staff awareness training"

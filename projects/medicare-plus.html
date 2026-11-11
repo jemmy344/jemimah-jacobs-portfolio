@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Jemimah Jacobs: MediCare Plus PCI DSS and HIPAA compliance assessment case study">
+<title>PCI DSS &amp; HIPAA Assessment | Jemimah Jacobs</title>
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body class="case-study-page">
+<header class="nav">
+  <a class="logo" href="../index.html">JJ<span>.</span> <small>GRC PORTFOLIO</small></a>
+  <nav aria-label="Main navigation">
+    <a href="../index.html#about">About</a>
+    <a href="../index.html#projects">Projects</a>
+    <a href="../index.html#contact">Contact</a>
+  </nav>
+</header>
+<main>
+<section class="projects section">
+  <a class="backlink" href="../index.html#projects">← Back to all projects</a>
+  <div class="section-kicker">05 / REGULATORY COMPLIANCE</div>
+  <div class="section-heading">
+    <h2>PCI DSS &amp; HIPAA Assessment</h2>
+    <p>10Alytics individual assessment · August 2026</p>
+  </div>
+  <article class="case">
+    <div class="case-head">
+      <div>
+        <div class="case-type">PCI DSS v4.0.1 · HIPAA · HEALTHCARE · TRAINING CASE STUDY</div>
+        <h3>MediCare Plus</h3>
+        <p>Card payment security and patient record access, assessed against two frameworks</p>
+      </div>
+      <div class="case-id">MC / 005</div>
+    </div>
+    <div class="stats">
+      <div><strong>02</strong><span>Incidents assessed</span></div>
+      <div><strong>10</strong><span>PCI DSS requirements mapped</span></div>
+      <div><strong>04</strong><span>Step HIPAA access plan</span></div>
+    </div>
+    <div class="case-body">
+      <div class="case-main">
+        <div class="content-block">
+          <h4>01 — The business challenge</h4>
+          <p>A private hospital takes card payments at reception and through an online patient portal, passing card data to a third-party processor. Separately, staff were viewing patient medical records they had no need to see.</p>
+        </div>
+        <div class="content-block">
+          <h4>02 — My work</h4>
+          <p>For the payment incident, I mapped the applicable PCI DSS v4.0.1 requirements to the hospital's set-up and recommended how to protect cardholder data. For the records incident, I confirmed the data was protected health information (PHI), identified the applicable HIPAA safeguards and wrote a remediation plan.</p>
+        </div>
+        <div class="content-block">
+          <h4>03 — Key recommendations</h4>
+          <div class="finding"><span class="priority high">PCI</span><div><b>Shrink the scope first</b><p>Use PCI-validated point-to-point encryption (P2PE) terminals at reception and hosted payment fields or a redirect on the portal, so card data never touches the hospital's network or servers.</p></div></div>
+          <div class="finding"><span class="priority high">PCI</span><div><b>Never store the CVV; segment the network</b><p>No security codes after authorisation; isolate the payment environment from clinical, IT and guest networks; verify each provider's Attestation of Compliance.</p></div></div>
+          <div class="finding"><span class="priority high">HIPAA</span><div><b>Role-based access and minimum necessary</b><p>Billing sees billing fields only; clinicians see only patients in their care unit; elevated access needs manager approval.</p></div></div>
+          <div class="finding"><span class="priority high">HIPAA</span><div><b>Audit logging, alerts and re-training</b><p>Log every view, edit or export of PHI, alert on out-of-shift or high-profile access, and re-train staff with real consequences for snooping.</p></div></div>
+        </div>
+        <div class="content-block">
+          <h4>04 — Key insight</h4>
+          <p>Logging alone doesn't stop snooping, and training alone doesn't either. The plan combines <strong>prevention</strong> (role-based access), <strong>detection</strong> (audit alerts) and <strong>deterrence</strong> (sanctions and training), so each covers the others' gaps.</p>
+        </div>
+        <div class="content-block">
+          <h4>05 — Outcome and limits</h4>
+          <p>An individual training assessment presenting requirement mapping and recommendations. No implementation or audit outcome is claimed.</p>
+        </div>
+      </div>
+      <aside class="sidebar">
+        <div class="side-card">
+          <h5>PROJECT CONTEXT</h5>
+          <dl>
+            <dt>Type</dt><dd>10Alytics individual assessment</dd>
+            <dt>Submitted</dt><dd>2 August 2026</dd>
+            <dt>Frameworks</dt><dd>PCI DSS v4.0.1; HIPAA</dd>
+            <dt>Setting</dt><dd>Private hospital (scenario)</dd>
+          </dl>
+        </div>
+        <div class="side-card">
+          <h5>SKILLS DEMONSTRATED</h5>
+          <ul><li>PCI DSS scoping</li><li>P2PE and tokenisation</li><li>HIPAA safeguards</li><li>Access control design</li><li>Web application security (OWASP)</li></ul>
+        </div>
+        <div class="note">
+          <strong>UK relevance</strong>
+          <p>PCI DSS applies to every UK business taking cards. For health data, the UK equivalents are UK GDPR special category data and the NHS Data Security and Protection Toolkit.</p>
+          <a href="../case-studies/05-medicare-plus-pci-dss-hipaa/docs/MediCare-Plus-PCI-DSS-HIPAA-Assessment.pdf" target="_blank" rel="noopener">View original submission ↗</a><br>
+          <a href="https://github.com/jemmy344/jemimah-jacobs-portfolio/tree/main/case-studies/05-medicare-plus-pci-dss-hipaa" target="_blank" rel="noopener">Full case study on GitHub ↗</a>
+        </div>
+      </aside>
+    </div>
+  </article>
+</section>
+</main>
+<footer>
+  <span>© <span id="year">2026</span> Jemimah Jacobs</span>
+  <span>Training projects are not represented as employment or implemented client work.</span>
+</footer>
+<script src="../script.js"></script>
+</body>
+</html>

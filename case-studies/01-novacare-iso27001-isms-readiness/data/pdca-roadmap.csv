@@ -1,0 +1,5 @@
+PDCA Stage,Recommended Actions,Indicative Timeline
+Plan,"Define the ISMS scope and context; approve the information security policy; complete the gap analysis and a formal risk assessment; build the information asset inventory and risk register",0-2 months
+Do,"Implement prioritised Annex A controls (starting with High-priority gaps); document the Statement of Applicability; roll out supplier due-diligence checks and the security awareness programme",2-5 months
+Check,"Conduct an internal audit against ISO/IEC 27001 Clauses 4-10 and the SoA; test control effectiveness; hold a management review of findings",5-7 months
+Act,"Remediate nonconformities from the internal audit; update policies and controls based on findings; prepare documentation for the external Stage 1 (readiness) audit",7-9 months

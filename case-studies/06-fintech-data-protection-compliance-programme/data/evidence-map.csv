@@ -1,0 +1,30 @@
+Audit area,Required evidence,Evidence pack document(s)
+1,Data Protection Policy,01 Data Protection Policy
+2,Data Subject Rights Procedure,"02 Data Subject Rights Procedure; 15 Backup, BC and DR Plan; 16 DSAR and Complaint Register"
+3,Breach / Incident Response Procedure,03 Personal Data Breach Response Procedure; 17 Breach Register; 29 Breach Notification and Incident Exercise Templates
+4,Retention and Disposal Policy,04 Data Retention and Secure Disposal Policy; 23 Data Deletion and Disposal Evidence Log
+5,Training Plan and Records,05 Staff Privacy Training Plan and Records
+6,Record of Processing Activities (ROPA),06 ROPA
+7,Lawful Basis Register,07 Lawful Basis Register
+8,Consent Records / Mechanism,08 Consent Management Procedure and Register
+9,Legitimate Interest Assessments,09 LIA: Security Logging
+10,DPIA Register and Completed DPIA,10 DPIA Register and Bank Sync DPIA
+11,Information Security Policy,11 Information Security Policy
+12,Access Control / User Access Matrix,12 Access Control Policy and User Access Matrix
+13,Encryption / Security Evidence,13 Encryption and Security Control Evidence Record
+14,VAPT / Security Assessment Reports,14 VAPT and Security Assessment Evidence Tracker
+15,Backup and Disaster Recovery Plan,"15 Backup, Business Continuity and Disaster Recovery Plan"
+16,DSAR Register,16 DSAR and Complaint Register
+17,Personal Data Breach Register,17 Personal Data Breach Register
+18,Cross-Border Transfer Register,18 Cross-Border Transfer Register and Transfer Risk Assessment
+19,Data Processor Register,19 Data Processor Register
+20,Data Processing Agreements,20 Data Processing Agreement Template
+21,Processor Due Diligence,21 Processor Due Diligence Questionnaire
+22,Sub-Processor Information,22 Sub-Processor Register
+23,Deletion / Disposal Evidence,23 Data Deletion and Disposal Evidence Log
+24,DPO / Semi-Annual Data Protection Reports,24 Semi-Annual Data Protection Report
+25,Management Review / Monitoring,25 Management Review and Corrective Action Records
+Supplement,Privacy Notice,26 Platform Privacy Notice
+Supplement,Privacy by Design and Default,27 Privacy by Design and Default Procedure
+Supplement,"Data Quality, Minimisation and De-identification","28 Data Quality, Minimisation and De-identification Procedure"
+Supplement,Evidence completion,30 Evidence Completion and Attachment Checklist

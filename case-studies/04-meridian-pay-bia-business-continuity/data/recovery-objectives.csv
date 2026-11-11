@@ -1,0 +1,6 @@
+Critical activity,MTD (maximum tolerable downtime),RTO (recovery time objective),RPO (recovery point objective),Basis
+Payment processing,4 hours,1 hour,0 minutes,"24/7 platform; about ₦104 million transaction value per hour"
+Fraud monitoring,10 minutes,5 minutes,"0 for alerts and evidence; 24 hours for rule configuration","Continuous exposure; security team works business hours only"
+Settlement with partner banks,90 minutes*,60 minutes*,0 minutes,"Fixed 10:00 cut-off; *illustrative figures for a disruption starting at 08:00 (clock-time rule applies)"
+Customer onboarding and KYC,24 hours,8 hours,4 hours,"About 800 applications a day; delay is reversible and applicants can be queued, but KYC obligations and new-customer revenue are affected beyond one business day"
+Customer support,8 hours,2 hours,1 hour,"40 agents; alternate channels (email, telephone, web chat) can run within 2 hours; longer outages drive complaints and regulatory enquiries"

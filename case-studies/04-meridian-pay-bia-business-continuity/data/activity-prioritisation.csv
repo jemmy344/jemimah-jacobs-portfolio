@@ -1,0 +1,6 @@
+Activity,Financial exposure,Time sensitivity,Customer / regulatory impact,Dependency (others rely on it),Workaround difficulty,Total (/25),Full BIA?
+Payment processing,5,4,5,5,4,23,Yes
+Fraud monitoring,4,5,5,4,4,22,Yes
+Settlement (10:00 cut-off),3,5,4,2,3,17,Yes
+Customer onboarding and KYC,2,2,4,2,2,12,No (covered by DPIA)
+Customer support,2,3,3,1,2,11,No (covered by IRP and BCP supporting services)

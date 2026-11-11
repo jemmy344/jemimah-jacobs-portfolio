@@ -1,0 +1,5 @@
+Step,Action,Safeguard type,What it involves
+1,Role-based access control,Technical and administrative,"Reconfigure the EHR so permissions follow the job: billing staff see billing fields only, not clinical notes; clinical staff only access records for patients in their direct care unit"
+2,Enforce the minimum necessary rule,Administrative (policy),Elevated access requires formal manager approval and a stated justification
+3,Enable audit logging and reviews,Technical,"Log every attempt to view, modify or export PHI; alert on unusual access patterns (e.g. viewing records outside shift hours or searching high-profile patients)"
+4,Mandatory workforce re-training,Administrative,"Re-train medical, administrative, billing and IT staff on privacy rules and minimum necessary, with real disciplinary consequences for unauthorised viewing"

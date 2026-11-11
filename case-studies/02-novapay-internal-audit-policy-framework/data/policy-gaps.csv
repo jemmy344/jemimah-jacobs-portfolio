@@ -1,0 +1,4 @@
+ID,Policy,Gap in the draft,Improvement,ISO/IEC 27001:2022 Annex A
+PG1,BYOD,"The policy lists device security requirements but does not explain how NovaPay checks them before a personal device can connect","Head of Corporate IT (or an authorised delegate) checks and approves each device before access is granted, for example through MDM",A.8.1 User endpoint devices
+PG2,BYOD,"The policy does not require an up-to-date list of approved personal devices","Keep a register showing each device, its user, approval date and access status",A.5.9 Inventory of information and other associated assets
+PG3,Access Control,"The policy says leavers' access must be removed ""promptly"" but does not define when, or how completion is recorded","Managers notify the Head of Corporate IT immediately on resignation; access is revoked within 24 hours of departure",A.5.18 Access rights

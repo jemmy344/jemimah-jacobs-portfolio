@@ -1,0 +1,6 @@
+No.,Policy,Audit question,Evidence to request
+1,BYOD,"Do personal devices meet the policy's screen-lock, patching and encryption requirements?",Security settings or compliance records for a sample of devices
+2,BYOD,"Were lost or stolen devices reported within the policy's one-hour period?",Incident reports with reporting times and actions taken
+3,Access Control,"Did the Department Head (System Owner) approve access before the Head of Corporate IT granted it?","Access requests, approvals and account records"
+4,Access Control,"Did system owners complete access reviews at the intervals stated in the policy?",Dated reviews and records of changes made
+5,Access Control,"Was access changed or removed when people changed roles or left?","Manager notifications, access tickets and account logs"
