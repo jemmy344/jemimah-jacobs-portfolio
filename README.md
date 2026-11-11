@@ -70,5 +70,5 @@ case-studies/<project>/
 ## Contact
 
 - 💼 LinkedIn: [linkedin.com/in/jemimahjacobs](https://www.linkedin.com/in/jemimahjacobs/)
-- 🌐 Portfolio website: *coming soon*
+- 🌐 Portfolio website: [jemmy344.github.io/jemimah-jacobs-portfolio](https://jemmy344.github.io/jemimah-jacobs-portfolio/)
 - 🐙 GitHub: [@jemmy344](https://github.com/jemmy344)
