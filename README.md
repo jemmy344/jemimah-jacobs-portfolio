@@ -1,10 +1,27 @@
 # Jemimah Jacobs | GRC and Information Security Portfolio
 
-**Front-end developer (4 years) moving into Governance, Risk and Compliance. Based in the UK.**
+**GRC analyst delivering information security governance, risk and compliance work, with 4 years in front-end development and QA. Based in the UK.**
 
 I turn security requirements into clear, evidence-backed documents that people can act on: gap analyses, risk registers, policies, continuity plans and privacy assessments. Having built web products for four years, I understand how controls actually get implemented, which helps me write requirements engineers can follow and auditors can test.
 
 🎯 **Looking for:** GRC Analyst · Information Security Analyst · Risk and Compliance Analyst · Data Protection / Privacy Analyst roles in the UK
+
+---
+
+## Experience
+
+| Role | Organisation | Dates |
+|---|---|---|
+| **Cybersecurity and GRC Analyst (Contract)** | Amdari, UK | Jun 2026 – present |
+| **Voluntary Data Protection and GRC Project** | SaaS company (anonymised), Nigeria, remote | Aug 2026 – present |
+| **Front-End Web Developer and Software Tester (QA)** | Wirebox Ltd, UK | Jun 2022 – present |
+| **IT Security Intern** | National Examinations Council (NECO), Lagos | Dec 2018 – Nov 2019 |
+
+At Amdari I run ISO/IEC 27001:2022 gap analyses and build risk registers and ISMS documentation for three small business clients. Client work is confidential and is not shown here.
+
+**Education:** MSc Computer Science (Distinction), University of Hertfordshire, Jan 2021 – Sep 2022 · BSc Mathematics, University of Ilorin, Sep 2014 – Sep 2018
+
+**Tools:** Jira · ServiceNow · Confluence · Microsoft 365 (Excel) · Python · CrowdStrike EDR · Wordfence · Cloudflare · AWS · GCP · WordPress · Slack. Training exposure: Vanta, Drata, Splunk
 
 ---
 
@@ -17,9 +34,9 @@ I turn security requirements into clear, evidence-backed documents that people c
 | 3 | [**NovaPay: enterprise risk assessment**](case-studies/03-novapay-enterprise-risk-management/) | ERM · ISO/IEC 27001 | Asset classification, threat and vulnerability analysis, risk treatment, controls, SLE/ARO/ALE exposure |
 | 4 | [**Meridian Pay: business impact analysis and continuity**](case-studies/04-meridian-pay-bia-business-continuity/) | ISO 22301 | BIA with MTD/RTO/RPO, revenue-at-risk model, settlement clock-time rule, Business Continuity Plan and testing programme |
 | 5 | [**MediCare Plus: PCI DSS and HIPAA assessment**](case-studies/05-medicare-plus-pci-dss-hipaa/) | PCI DSS v4.0.1 · HIPAA | Requirement mapping, scope reduction with P2PE and tokenisation, patient-record access remediation plan |
-| 6 | [**FinTech SaaS: data protection compliance programme**](case-studies/06-fintech-data-protection-compliance-programme/) ⭐ | NDPA 2023 (mapped to UK GDPR) | **Real-world work:** 30-document audit evidence pack, including DPIA, LIA, ROPA and breach, rights and transfer controls |
+| 6 | [**FinTech SaaS: data protection compliance programme**](case-studies/06-fintech-data-protection-compliance-programme/) ⭐ | NDPA 2023 (mapped to UK GDPR) | **Voluntary work:** 30-document audit evidence pack, including DPIA, LIA, ROPA and breach, rights and transfer controls |
 
-> Case studies 1–5 are based on fictional organisations from structured GRC training. Case study 6 is real-world work, anonymised. Where a project was a team effort, each case study states clearly which parts I wrote.
+> Case studies 1–5 are based on fictional organisations from structured GRC training. Case study 6 is anonymised voluntary work for a real SaaS company. Client work from my Amdari contract role is confidential and is not shown. Where a project was a team effort, each case study states clearly which parts I wrote.
 
 ---
 
@@ -42,9 +59,8 @@ I turn security requirements into clear, evidence-backed documents that people c
 ## Training and certifications
 
 - 🏛️ **UK Cyber Security Council: Associate Cyber Security Practitioner (ACSP)**: application submitted, awaiting outcome
-- 🎓 **ISC2 Certified in Cybersecurity (CC)**: in progress
-- 🎓 **10Alytics GRC Programme** (cohort C26-06), 2026
-- 🎓 **Amdari programme**: in progress
+- 🎓 **ISC2 Certified in Cybersecurity (CC)**: course completed, exam pending
+- 🎓 **10Alytics Governance, Risk and Compliance Programme** (cohort C26-06), 2026: complete. Case studies 1–5 come from this programme.
 - 📜 LinkedIn Learning: *Cybersecurity Foundations: Governance, Risk and Compliance*
 - 📜 LinkedIn Learning: *Firewall Administration Essential Training*
 

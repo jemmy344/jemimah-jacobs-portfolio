@@ -2,7 +2,7 @@
 
 Turning an audit verdict of *"substantially compliant, evidence required"* into a complete, audit-ready evidence pack. After an external data protection audit, I built a 30-document compliance programme for a fintech start-up, mapping every audit area to a policy, register or assessment, including a DPIA for its open-banking feature, a legitimate interest assessment and a full Record of Processing Activities.
 
-> **Context:** Real-world work for a technology company, September 2026. **The organisation, its product, people, suppliers and registration details have been anonymised.** The company is referred to as "the Company" and its product as "the Platform". Documents are shown as v0.9 drafts prepared for management and DPO approval.
+> **Context:** Voluntary project for a SaaS company, August 2026 to present. **The organisation, its product, people, suppliers and registration details have been anonymised.** The company is referred to as "the Company" and its product as "the Platform". Documents are shown as v0.9 drafts prepared for management and DPO approval.
 
 ---
 
